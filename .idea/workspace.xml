@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b24ba3fb-64ea-4c8c-bfd0-2c62a041e5cc" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/components/FPV.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useStore.js" afterDir="false" />
+    <list default="true" id="b24ba3fb-64ea-4c8c-bfd0-2c62a041e5cc" name="Changes" comment="feat: first person view and storage hook">
+      <change afterPath="$PROJECT_DIR$/src/components/Cubes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Cube.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cube.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Ground.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Ground.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/useStore.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/useStore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/textures.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/textures.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +75,9 @@
       <workItem from="1669701698666" duration="1743000" />
       <workItem from="1669739019047" duration="2199000" />
       <workItem from="1669743989253" duration="3377000" />
-      <workItem from="1669788767514" duration="1098000" />
+      <workItem from="1669788767514" duration="1170000" />
+      <workItem from="1669824957036" duration="3435000" />
+      <workItem from="1669907726762" duration="1502000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1669747523043</created>
@@ -82,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669747523043</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: first person view and storage hook">
+      <created>1669789948224</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669789948224</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="feat: first person view and storage hook" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: first person view and storage hook" />
   </component>
 </project>
